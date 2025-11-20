@@ -41,7 +41,7 @@ Obtain the AI-produced report.
 
 Check for consistency and correctness.
 
-Step 6: Improve Output (If Needed)
+Step 6: Improve Output
 
 Apply reflective or iterative prompting to refine.
 
